@@ -1,0 +1,5 @@
+C:\Projects Personal\FizzBuzz\FBLibrary\bin\Debug\FBLibrary.dll
+C:\Projects Personal\FizzBuzz\FBLibrary\bin\Debug\FBLibrary.pdb
+C:\Projects Personal\FizzBuzz\FBLibrary\obj\Debug\FBLibrary.dll
+C:\Projects Personal\FizzBuzz\FBLibrary\obj\Debug\FBLibrary.pdb
+C:\Projects Personal\FizzBuzz\FBLibrary\obj\Debug\FBLibrary.csprojResolveAssemblyReference.cache

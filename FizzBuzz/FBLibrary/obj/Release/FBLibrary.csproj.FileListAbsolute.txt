@@ -1,0 +1,4 @@
+C:\Projects Personal\FizzBuzz\FBLibrary\bin\Release\FBLibrary.dll
+C:\Projects Personal\FizzBuzz\FBLibrary\bin\Release\FBLibrary.pdb
+C:\Projects Personal\FizzBuzz\FBLibrary\obj\Release\FBLibrary.dll
+C:\Projects Personal\FizzBuzz\FBLibrary\obj\Release\FBLibrary.pdb
